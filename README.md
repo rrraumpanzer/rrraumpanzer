@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I am... trying. Amateur coder and 3D-artist trying to get better</h4>
+<h2 align="center">I am... trying. Amateur coder and 3D-artist trying to get better</h2>
 
 ###
 
