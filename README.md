@@ -11,6 +11,12 @@
 
 ###
 
+
+<p align="right">
+_"You find your rhythm when you realize that even the steps backwards were part of the dance."_</p>
+
+###
+
 <p align="left">I'll fill this silly page later.<br> 
   I speak 🇬🇧 and 🇷🇺, learning 🇩🇪.<br>
 </p>
