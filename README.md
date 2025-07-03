@@ -12,8 +12,7 @@
 ###
 
 
-<p align="right">
-"You find your rhythm when you realize that even the steps backwards were part of the dance."</p>
+> *"You find your rhythm when you realize that even the steps backwards were part of the dance."*
 
 ###
 
