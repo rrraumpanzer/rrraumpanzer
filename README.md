@@ -12,7 +12,7 @@
 ###
 
 <p align="left">I'll fill this silly page later.<br> 
-  I speak English and Russian, trying to learn German language.<br>
+  I speak 🇬🇧 and 🇷🇺, learning 🇩🇪.<br>
 </p>
 
 ###
