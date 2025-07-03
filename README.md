@@ -2,11 +2,18 @@
 
 ###
 
-<h4 align="center">I am... trying</h4>
+<h4 align="center">I am... trying. Amateur coder and 3D-artist trying to get better</h4>
 
 ###
 
-<p align="left">I'll fill this silly page later</p>
+
+<h4 align="center">Feel free to chat w me, I'm bad at small-talk though.</h4>
+
+###
+
+<p align="left">I'll fill this silly page later.<br> 
+  I speak English and Russian, trying to learn German language.<br>
+</p>
 
 ###
 
