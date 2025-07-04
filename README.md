@@ -11,10 +11,11 @@ Feel free to chat w me anytime, I play games mostly drunk.
 + ~~optional~~ drink some
 
 <div align="left">
-  <img width="5"/>
+  <h4> Me in the other corners of www: </h4>
   <a href="https://steamcommunity.com/id/rrraumpanzer/" target="_blank">
     <img src="https://www.svgrepo.com/show/452107/steam.svg" width="52" height="40" alt="steam logo"  />
   </a>
+  <img width="5"/>
   <a href="https://shikimori.one/RRRAUMPANZER" target="_blank">
     <img src="https://shikimori.one/assets/layouts/l-top_menu-v2/glyph.svg" width="52" height="40" alt="shikimori logo" />
   </a>
