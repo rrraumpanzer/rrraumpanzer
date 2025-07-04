@@ -12,7 +12,9 @@ Feel free to chat w me anytime, I play games mostly drunk.
 
 ###
 
-
+<div align="left">
+  <img height="150" src="https://psv4.userapi.com/s/v1/d2/MfmhqJaRVYqQGMHPD2lYU4Og_WZ0wuYde2l2dT1n0y-kRIt7RbbpI03EHRF96EC_7A_vaGAyOfepakLgyEXnDxkXG8B9LZK3R_WdQs_lpWGbeqH3E1gaeXx8OS2rLU5GPjGwlveiXQ1y/Are_you_a_flower.gif"  />
+</div>
 
 ###
 
