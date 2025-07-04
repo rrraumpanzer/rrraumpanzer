@@ -1,4 +1,4 @@
-<h1 align="center">Hiyaa</h1>
+<h1 align="center">Hello there :)</h1>
 
 <h2 align="center">I've been diagnosed with :3 (It's terminal >⩊<)</h2>
   
@@ -10,14 +10,6 @@ Feel free to chat w me anytime, I play games mostly drunk.
 
 + ~~optional~~ drink some
 
-###
-
-<div align="left">
-  <img height="150" src="https://psv4.userapi.com/s/v1/d2/MfmhqJaRVYqQGMHPD2lYU4Og_WZ0wuYde2l2dT1n0y-kRIt7RbbpI03EHRF96EC_7A_vaGAyOfepakLgyEXnDxkXG8B9LZK3R_WdQs_lpWGbeqH3E1gaeXx8OS2rLU5GPjGwlveiXQ1y/Are_you_a_flower.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img width="5"/>
   <a href="https://steamcommunity.com/id/rrraumpanzer/" target="_blank">
@@ -27,21 +19,27 @@ Feel free to chat w me anytime, I play games mostly drunk.
 
 ###
 
+<div style="display: flex; gap: 10px;" align="center">
+    <img src="https://media1.tenor.com/m/n3cePkjLlJwAAAAd/milk-outside-a-bag-of-milk-milk-inside-a-bag-of-milk.gif" width="200">
+    <img src="https://media1.tenor.com/m/2kLVLI4eNRUAAAAd/jägermeister-jaegermeister.gif" width="200">
+    <img src="https://media1.tenor.com/m/9d5jwQO2s88AAAAC/ralsei-deltarune.gif" width="200">
+    <img src="https://media1.tenor.com/m/30ii824tYWsAAAAC/rain-world-saint.gif" width="200">
+</div>
+<div align="right">
+    <img src="https://media.tenor.com/YmaUii4ni0EAAAAi/rain-world-enot.gif" width="100">
+</div>
+
+###
 
 
 
-
-
-
-
-
-
-
-
+###
 
 
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxxxxxxxxxxxxx.xxxxxxxxxxxxxx&left_color=yellow&right_color=black&left_text=%20Oh%20hey,%20gorgeous%20%E2%84%96"  />
+  <h6 align="right">Kitten corner</h6>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxxxxxxxxxxxxx.xxxxxxxxxxxxxx&left_color=yellow&right_color=black&left_text=%20Oh%20hey,%20kitty%20%E2%84%96"  />
+  <img src="https://media1.tenor.com/m/KZUwEefBqNMAAAAd/kitten-eating-steak-kitten-eating.gif" width="70"/>
 </div>
 
