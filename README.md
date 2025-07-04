@@ -65,3 +65,11 @@
 <img align="left" height="200" src="https://sun9-31.userapi.com/s/v1/ig2/jKx3H4tRnqeL6VVMUlCVV_qwX9I0uq7SNI7yxAvhqCxn_Vca2C0Njutp1IL-mb7uR0LYwoQTFWlaisZPAq9SDcfq.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640&from=bu&cs=640x0"  />
 
 ###
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrraumpanzer.rrraumpanzer&left_color=yellow&right_color=black&left_text=%20Oh%20hey,%20gorgeous%20%E2%84%96"  />
+</div>
+
+###
