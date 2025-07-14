@@ -1,6 +1,6 @@
-<h1 align="center">Hello there :)</h1>
+<h1 align="center">Hello there :) <img src=https://media.tenor.com/eJ_Mxs2wqnMAAAAi/cabbit-south-bronx.gif" height="50"></h1> 
 
-<h2 align="center">I've been diagnosed with :3 (It's terminal >⩊<)</h2>
+<h2 align="center"><img src="https://media.tenor.com/-q_2NYJwZdEAAAAi/yippee.gif" height="30">I've been diagnosed with :3 (It's terminal >⩊<)</h2>
   
 Feel free to chat w me anytime, I play games mostly drunk.
 
@@ -20,6 +20,8 @@ Feel free to chat w me anytime, I play games mostly drunk.
     <img src="https://shikimori.one/assets/layouts/l-top_menu-v2/glyph.svg" width="52" height="40" alt="shikimori logo" />
   </a>
 </div>
+<img src="https://media.tenor.com/D7ud57J7hT0AAAAi/anything-but.gif" height="60"/>
+<img src=https://media1.tenor.com/m/LgoXHJDqJBIAAAAd/night-in-the-woods-greggory-lee.gif" width="155"/>
 
 
 ###
@@ -31,11 +33,12 @@ Feel free to chat w me anytime, I play games mostly drunk.
     <img src="https://media1.tenor.com/m/30ii824tYWsAAAAC/rain-world-saint.gif" width="200">
 </div>
 <div align="right">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVnenVyYm4ybTh1eDcxNTV1aXlxNTU5bjZhN2czdzB1eHFqenhxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fDgfGUTsN3UtZUfoGF/giphy.gif" width="80">
     <img src="https://media.tenor.com/YmaUii4ni0EAAAAi/rain-world-enot.gif" width="100">
 </div>
 
-###
 
+﻿Ｉ＇ｖｅ　ａｌｗａｙｓ　ｗａｎｔｅｄ　ｔｏ　ｔｒｙ　ｓｌｉｐｐｉｎｇ　ｏｎ　ａ　ｂａｎａｎａ　ｐｅｅｌ 🥀🥀🥀
 
 
 ###
