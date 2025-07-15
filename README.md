@@ -4,9 +4,9 @@
   
 Feel free to chat w me anytime, I play games mostly drunk.
 
-**My current tasks:**
+**My current objectives:**
 
-+ Be a good person. Not the best, but better than yesterday
++ be a good person - not the best, but better than yesterday
 
 + ~~optional~~ drink some
 
@@ -21,7 +21,7 @@ Feel free to chat w me anytime, I play games mostly drunk.
   </a>
 </div>
 <img src="https://media.tenor.com/D7ud57J7hT0AAAAi/anything-but.gif" height="60"/>
-<img src=https://media1.tenor.com/m/LgoXHJDqJBIAAAAd/night-in-the-woods-greggory-lee.gif" width="155"/>
+<img src="https://media1.tenor.com/m/LgoXHJDqJBIAAAAd/night-in-the-woods-greggory-lee.gif" width="155"/>
 
 
 ###
@@ -37,7 +37,6 @@ Feel free to chat w me anytime, I play games mostly drunk.
     <img src="https://media.tenor.com/YmaUii4ni0EAAAAi/rain-world-enot.gif" width="100">
 </div>
 
-
 ﻿Ｉ＇ｖｅ　ａｌｗａｙｓ　ｗａｎｔｅｄ　ｔｏ　ｔｒｙ　ｓｌｉｐｐｉｎｇ　ｏｎ　ａ　ｂａｎａｎａ　ｐｅｅｌ 🥀🥀🥀
 
 
@@ -47,7 +46,7 @@ Feel free to chat w me anytime, I play games mostly drunk.
 
 <div align="right">
   <h6 align="right">Kitten corner</h6>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xxxxxxxxxxxxxxx.xxxxxxxxxxxxxx&left_color=yellow&right_color=black&left_text=%20Oh%20hey,%20kitty%20%E2%84%96"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rrraumpanzer.rrraumpanzer&left_color=yellow&right_color=black&left_text=%20Oh%20hey,%20kitty%20%E2%84%96"  />
   <img src="https://media1.tenor.com/m/KZUwEefBqNMAAAAd/kitten-eating-steak-kitten-eating.gif" width="70"/>
 </div>
 
